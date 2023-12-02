@@ -1,0 +1,3 @@
+/home/lwd/cmake_learning/v1/build/CMakeFiles/app.dir
+/home/lwd/cmake_learning/v1/build/CMakeFiles/edit_cache.dir
+/home/lwd/cmake_learning/v1/build/CMakeFiles/rebuild_cache.dir
